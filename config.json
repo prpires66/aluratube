@@ -1,0 +1,14 @@
+{
+  "name": "Mario Sourto",
+  "job": "Lead Sopftware Engineer",
+  "github": "omariosouto",
+  "playlists": {   
+    "jogos": [
+      {
+        "title": "Algum titulo",
+        "url": "url",
+        "thumb": "thumbmail do video"
+      }
+    ]
+  }
+}
