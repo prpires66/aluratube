@@ -7,7 +7,7 @@
 
 ## 💻 Projeto
 
-Aplicação desenvolvida durante o evento imersão react_ promovido pela Alura em Nov/2022.
+Aplicação desenvolvida durante o evento imersão react_ promovido pela Alura em novembro de 2022.
 
 ## ✨ Tecnologia
 
